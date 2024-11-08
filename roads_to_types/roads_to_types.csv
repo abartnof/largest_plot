@@ -1,0 +1,17 @@
+Table 1
+mtfcc,n,feature class,feature class description,lanes,Type of Roadway,meters per lane,notes
+S1400,14706508,"Local Neighborhood Road, Rural Road, City Street","Generally a paved non-arterial street, road, or byway that usually has a single lane of traffic in each direction. Roads in this feature class may be privately or publicly maintained. Scenic park roads would be included in this feature class, as would (depending on the region of the country) some unpaved roads",2,Collector,3.3,
+S1740,1759568,"Private Road for service vehicles (logging, oil fields, ranches, etc.)","A road within private property that is privately maintained for service, extractive, or other purposes. These roads are often unnamed.",1,Local,3.15,
+S1750,403654,Internal U.S. Census Bureau use ,Internal U.S. Census Bureau use.,2,Local,3.15,guess
+S1500,331352,Vehicular Trail (4WD) ,"An unpaved dirt trail where a four-wheel drive vehicle is required. These vehicular trails are found almost exclusively in very rural areas. Minor, unpaved roads usable by ordinary cars and trucks belong in the S1400 category.",1,Local,3.15,
+S1200,253295,Secondary Road,"Secondary roads are main arteries that are not limited access, usually in the U.S. highway, state highway, or county highway systems. These roads have one or more lanes of traffic in each direction, may or may not be divided, and usually have at-grade intersections with many other roads and driveways. They often have both a local name and a route number.",3,Arterial,3.45,1.5 lanes each way is a guess
+S1630,199170,Ramp,"A road that allows controlled access from adjacent roads onto a limited access highway, often in the form of a cloverleaf interchange.",1.5,Ramp,6.4,
+S1640,146155,Service Drive usually along a limited access highway,"A road, usually paralleling a limited access highway, that provides access to structures and/or service facilities along the highway. These roads can be named and may intersect with other roads.",3,Arterial,3.45,"Frontage road, essentially?"
+S1730,73712,Alley,A service road that does not generally have associated addressed structures and is usually unnamed. It is located at the rear of buildings and properties and is used for deliveries.,1,Local,3.15,
+S1780,39531,Parking Lot Road,The main travel route for vehicles through a paved parking area. This may include unnamed roads through apartment/condominium/office complexes where pull-in parking spaces line the road.,1,Local,3.15,
+S1100,17576,Primary Road,"Primary roads are limited-access highways that connect to other roads only at interchanges and not at at-grade intersections. This category includes Interstate highways, as well as all other highways with limited access (some of which are toll roads). Limited-access highways with only one lane in each direction, as well as those that are undivided, are also included under S1100.",5,Freeway,3.6,
+S1710,17273,Walkway/Pedestrian Trail,"A path that is used for walking, being either too narrow for or legally restricted from vehicular traffic.",1,Local,3.15,
+S1820,4368,Bike Path or Trail ,"A path that is used for manual or small, motorized bicycles, being either too narrow for or legally restricted from vehicular traffic.",1,Local,3.15,
+S1810,508,Winter Trail,"A type of seasonal trail, created and marked in snow, primarily traveled by snowmobiles and dog sleds, and used to reach housing units and to connect communities.",1,Local,3.15,
+S1720,240,Stairway,,1,Local,3.15,
+S1830,26,Bridle Path,,1,Local,3.15,

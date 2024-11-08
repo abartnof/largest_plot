@@ -18,3 +18,11 @@ wget -r -l1 -H -nd -A zip -e robots=off https://www2.census.gov/geo/tiger/TIGER2
 Rails
 https://www2.census.gov/geo/tiger/TIGER2023/RAILS/
 
+
+
+roads size:
+https://safety.fhwa.dot.gov/geometric/pubs/mitigationstrategies/chapter3/3_lanewidth.cfm
+definitions:
+https://www2.census.gov/geo/pdfs/reference/mtfccs2022.pdf
+definitions:
+https://www.census.gov/library/reference/code-lists/route-type-codes.html
